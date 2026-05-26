@@ -1,0 +1,1522 @@
+[
+  {
+    "external_id": "320",
+    "name": "powiat aleksandrowski"
+  },
+  {
+    "external_id": "247",
+    "name": "powiat augustowski"
+  },
+  {
+    "external_id": "99",
+    "name": "powiat bartoszycki"
+  },
+  {
+    "external_id": "293",
+    "name": "powiat bełchatowski"
+  },
+  {
+    "external_id": "289",
+    "name": "powiat bialski"
+  },
+  {
+    "external_id": "257",
+    "name": "powiat Biała Podlaska"
+  },
+  {
+    "external_id": "168",
+    "name": "powiat białobrzeski"
+  },
+  {
+    "external_id": "145",
+    "name": "powiat białogardzki"
+  },
+  {
+    "external_id": "246",
+    "name": "powiat białostocki"
+  },
+  {
+    "external_id": "352",
+    "name": "powiat Białystok"
+  },
+  {
+    "external_id": "270",
+    "name": "powiat bielski"
+  },
+  {
+    "external_id": "79",
+    "name": "powiat bielski"
+  },
+  {
+    "external_id": "194",
+    "name": "powiat Bielsko-Biała"
+  },
+  {
+    "external_id": "273",
+    "name": "powiat bieruńsko-lędziński"
+  },
+  {
+    "external_id": "202",
+    "name": "powiat bieszczadzki"
+  },
+  {
+    "external_id": "170",
+    "name": "powiat biłgorajski"
+  },
+  {
+    "external_id": "71",
+    "name": "powiat bocheński"
+  },
+  {
+    "external_id": "150",
+    "name": "powiat bolesławiecki"
+  },
+  {
+    "external_id": "361",
+    "name": "powiat braniewski"
+  },
+  {
+    "external_id": "44",
+    "name": "powiat brodnicki"
+  },
+  {
+    "external_id": "13",
+    "name": "powiat brzeski"
+  },
+  {
+    "external_id": "18",
+    "name": "powiat brzeski"
+  },
+  {
+    "external_id": "224",
+    "name": "powiat brzeziński"
+  },
+  {
+    "external_id": "349",
+    "name": "powiat brzozowski"
+  },
+  {
+    "external_id": "262",
+    "name": "powiat buski"
+  },
+  {
+    "external_id": "365",
+    "name": "powiat bydgoski"
+  },
+  {
+    "external_id": "369",
+    "name": "powiat Bydgoszcz"
+  },
+  {
+    "external_id": "90",
+    "name": "powiat Bytom"
+  },
+  {
+    "external_id": "284",
+    "name": "powiat bytowski"
+  },
+  {
+    "external_id": "271",
+    "name": "powiat będziński"
+  },
+  {
+    "external_id": "12",
+    "name": "powiat Chełm"
+  },
+  {
+    "external_id": "199",
+    "name": "powiat chełmiński"
+  },
+  {
+    "external_id": "171",
+    "name": "powiat chełmski"
+  },
+  {
+    "external_id": "229",
+    "name": "powiat chodzieski"
+  },
+  {
+    "external_id": "336",
+    "name": "powiat chojnicki"
+  },
+  {
+    "external_id": "148",
+    "name": "powiat Chorzów"
+  },
+  {
+    "external_id": "37",
+    "name": "powiat choszczeński"
+  },
+  {
+    "external_id": "155",
+    "name": "powiat chrzanowski"
+  },
+  {
+    "external_id": "288",
+    "name": "powiat ciechanowski"
+  },
+  {
+    "external_id": "50",
+    "name": "powiat cieszyński"
+  },
+  {
+    "external_id": "136",
+    "name": "powiat czarnkowsko-trzcianecki"
+  },
+  {
+    "external_id": "363",
+    "name": "powiat Częstochowa"
+  },
+  {
+    "external_id": "85",
+    "name": "powiat częstochowski"
+  },
+  {
+    "external_id": "213",
+    "name": "powiat człuchowski"
+  },
+  {
+    "external_id": "335",
+    "name": "powiat drawski"
+  },
+  {
+    "external_id": "312",
+    "name": "powiat działdowski"
+  },
+  {
+    "external_id": "187",
+    "name": "powiat dzierżoniowski"
+  },
+  {
+    "external_id": "316",
+    "name": "powiat Dąbrowa Górnicza"
+  },
+  {
+    "external_id": "129",
+    "name": "powiat dąbrowski"
+  },
+  {
+    "external_id": "134",
+    "name": "powiat dębicki"
+  },
+  {
+    "external_id": "88",
+    "name": "powiat Elbląg"
+  },
+  {
+    "external_id": "141",
+    "name": "powiat elbląski"
+  },
+  {
+    "external_id": "186",
+    "name": "powiat ełcki"
+  },
+  {
+    "external_id": "121",
+    "name": "powiat garwoliński"
+  },
+  {
+    "external_id": "108",
+    "name": "powiat Gdańsk"
+  },
+  {
+    "external_id": "237",
+    "name": "powiat gdański"
+  },
+  {
+    "external_id": "59",
+    "name": "powiat Gdynia"
+  },
+  {
+    "external_id": "34",
+    "name": "powiat giżycki"
+  },
+  {
+    "external_id": "40",
+    "name": "powiat Gliwice"
+  },
+  {
+    "external_id": "192",
+    "name": "powiat gliwicki"
+  },
+  {
+    "external_id": "307",
+    "name": "powiat gnieźnieński"
+  },
+  {
+    "external_id": "330",
+    "name": "powiat goleniowski"
+  },
+  {
+    "external_id": "319",
+    "name": "powiat golubsko-dobrzyński"
+  },
+  {
+    "external_id": "372",
+    "name": "powiat gorlicki"
+  },
+  {
+    "external_id": "74",
+    "name": "powiat gorzowski"
+  },
+  {
+    "external_id": "259",
+    "name": "powiat Gorzów Wielkopolski"
+  },
+  {
+    "external_id": "8",
+    "name": "powiat gostyniński"
+  },
+  {
+    "external_id": "233",
+    "name": "powiat gostyński"
+  },
+  {
+    "external_id": "207",
+    "name": "powiat gołdapski"
+  },
+  {
+    "external_id": "138",
+    "name": "powiat grajewski"
+  },
+  {
+    "external_id": "182",
+    "name": "powiat grodziski"
+  },
+  {
+    "external_id": "9",
+    "name": "powiat grodziski"
+  },
+  {
+    "external_id": "370",
+    "name": "powiat Grudziądz"
+  },
+  {
+    "external_id": "196",
+    "name": "powiat grudziądzki"
+  },
+  {
+    "external_id": "240",
+    "name": "powiat gryficki"
+  },
+  {
+    "external_id": "89",
+    "name": "powiat gryfiński"
+  },
+  {
+    "external_id": "253",
+    "name": "powiat grójecki"
+  },
+  {
+    "external_id": "313",
+    "name": "powiat górowski"
+  },
+  {
+    "external_id": "36",
+    "name": "powiat głogowski"
+  },
+  {
+    "external_id": "103",
+    "name": "powiat głubczycki"
+  },
+  {
+    "external_id": "154",
+    "name": "powiat hajnowski"
+  },
+  {
+    "external_id": "123",
+    "name": "powiat hrubieszowski"
+  },
+  {
+    "external_id": "43",
+    "name": "powiat inowrocławski"
+  },
+  {
+    "external_id": "162",
+    "name": "powiat iławski"
+  },
+  {
+    "external_id": "340",
+    "name": "powiat janowski"
+  },
+  {
+    "external_id": "58",
+    "name": "powiat jarociński"
+  },
+  {
+    "external_id": "300",
+    "name": "powiat jarosławski"
+  },
+  {
+    "external_id": "102",
+    "name": "powiat jasielski"
+  },
+  {
+    "external_id": "276",
+    "name": "powiat Jastrzębie-Zdrój"
+  },
+  {
+    "external_id": "378",
+    "name": "powiat jaworski"
+  },
+  {
+    "external_id": "42",
+    "name": "powiat Jaworzno"
+  },
+  {
+    "external_id": "53",
+    "name": "powiat Jelenia Góra"
+  },
+  {
+    "external_id": "210",
+    "name": "powiat jeleniogórski"
+  },
+  {
+    "external_id": "232",
+    "name": "powiat jędrzejowski"
+  },
+  {
+    "external_id": "235",
+    "name": "powiat kaliski"
+  },
+  {
+    "external_id": "215",
+    "name": "powiat Kalisz"
+  },
+  {
+    "external_id": "61",
+    "name": "powiat kamiennogórski"
+  },
+  {
+    "external_id": "362",
+    "name": "powiat kamieński"
+  },
+  {
+    "external_id": "84",
+    "name": "powiat kartuski"
+  },
+  {
+    "external_id": "149",
+    "name": "powiat Katowice"
+  },
+  {
+    "external_id": "234",
+    "name": "powiat kazimierski"
+  },
+  {
+    "external_id": "184",
+    "name": "powiat Kielce"
+  },
+  {
+    "external_id": "305",
+    "name": "powiat kielecki"
+  },
+  {
+    "external_id": "231",
+    "name": "powiat kluczborski"
+  },
+  {
+    "external_id": "176",
+    "name": "powiat kolbuszowski"
+  },
+  {
+    "external_id": "63",
+    "name": "powiat kolneński"
+  },
+  {
+    "external_id": "26",
+    "name": "powiat kolski"
+  },
+  {
+    "external_id": "140",
+    "name": "powiat konecki"
+  },
+  {
+    "external_id": "115",
+    "name": "powiat Konin"
+  },
+  {
+    "external_id": "380",
+    "name": "powiat koniński"
+  },
+  {
+    "external_id": "190",
+    "name": "powiat Koszalin"
+  },
+  {
+    "external_id": "269",
+    "name": "powiat koszaliński"
+  },
+  {
+    "external_id": "339",
+    "name": "powiat kozienicki"
+  },
+  {
+    "external_id": "189",
+    "name": "powiat kołobrzeski"
+  },
+  {
+    "external_id": "181",
+    "name": "powiat kościański"
+  },
+  {
+    "external_id": "30",
+    "name": "powiat kościerski"
+  },
+  {
+    "external_id": "130",
+    "name": "powiat krakowski"
+  },
+  {
+    "external_id": "14",
+    "name": "powiat Kraków"
+  },
+  {
+    "external_id": "303",
+    "name": "powiat krapkowicki"
+  },
+  {
+    "external_id": "290",
+    "name": "powiat krasnostawski"
+  },
+  {
+    "external_id": "124",
+    "name": "powiat kraśnicki"
+  },
+  {
+    "external_id": "323",
+    "name": "powiat Krosno"
+  },
+  {
+    "external_id": "351",
+    "name": "powiat krotoszyński"
+  },
+  {
+    "external_id": "133",
+    "name": "powiat krośnieński"
+  },
+  {
+    "external_id": "51",
+    "name": "powiat krośnieński"
+  },
+  {
+    "external_id": "174",
+    "name": "powiat kutnowski"
+  },
+  {
+    "external_id": "315",
+    "name": "powiat kwidzyński"
+  },
+  {
+    "external_id": "350",
+    "name": "powiat kędzierzyńsko-kozielski"
+  },
+  {
+    "external_id": "264",
+    "name": "powiat kępiński"
+  },
+  {
+    "external_id": "245",
+    "name": "powiat kętrzyński"
+  },
+  {
+    "external_id": "191",
+    "name": "powiat kłobucki"
+  },
+  {
+    "external_id": "249",
+    "name": "powiat kłodzki"
+  },
+  {
+    "external_id": "280",
+    "name": "powiat legionowski"
+  },
+  {
+    "external_id": "195",
+    "name": "powiat Legnica"
+  },
+  {
+    "external_id": "368",
+    "name": "powiat legnicki"
+  },
+  {
+    "external_id": "201",
+    "name": "powiat leski"
+  },
+  {
+    "external_id": "23",
+    "name": "powiat leszczyński"
+  },
+  {
+    "external_id": "25",
+    "name": "powiat Leszno"
+  },
+  {
+    "external_id": "227",
+    "name": "powiat leżajski"
+  },
+  {
+    "external_id": "309",
+    "name": "powiat lidzbarski"
+  },
+  {
+    "external_id": "341",
+    "name": "powiat limanowski"
+  },
+  {
+    "external_id": "95",
+    "name": "powiat lipnowski"
+  },
+  {
+    "external_id": "122",
+    "name": "powiat lipski"
+  },
+  {
+    "external_id": "228",
+    "name": "powiat lubaczowski"
+  },
+  {
+    "external_id": "254",
+    "name": "powiat lubartowski"
+  },
+  {
+    "external_id": "373",
+    "name": "powiat lubański"
+  },
+  {
+    "external_id": "220",
+    "name": "powiat lubelski"
+  },
+  {
+    "external_id": "94",
+    "name": "powiat lubiński"
+  },
+  {
+    "external_id": "70",
+    "name": "powiat Lublin"
+  },
+  {
+    "external_id": "193",
+    "name": "powiat lubliniecki"
+  },
+  {
+    "external_id": "279",
+    "name": "powiat lwówecki"
+  },
+  {
+    "external_id": "109",
+    "name": "powiat lęborski"
+  },
+  {
+    "external_id": "205",
+    "name": "powiat makowski"
+  },
+  {
+    "external_id": "308",
+    "name": "powiat malborski"
+  },
+  {
+    "external_id": "342",
+    "name": "powiat miechowski"
+  },
+  {
+    "external_id": "301",
+    "name": "powiat mielecki"
+  },
+  {
+    "external_id": "329",
+    "name": "powiat mikołowski"
+  },
+  {
+    "external_id": "93",
+    "name": "powiat milicki"
+  },
+  {
+    "external_id": "230",
+    "name": "powiat międzychodzki"
+  },
+  {
+    "external_id": "75",
+    "name": "powiat międzyrzecki"
+  },
+  {
+    "external_id": "217",
+    "name": "powiat miński"
+  },
+  {
+    "external_id": "46",
+    "name": "powiat mogileński"
+  },
+  {
+    "external_id": "304",
+    "name": "powiat moniecki"
+  },
+  {
+    "external_id": "35",
+    "name": "powiat mrągowski"
+  },
+  {
+    "external_id": "241",
+    "name": "powiat myszkowski"
+  },
+  {
+    "external_id": "317",
+    "name": "powiat Mysłowice"
+  },
+  {
+    "external_id": "343",
+    "name": "powiat myślenicki"
+  },
+  {
+    "external_id": "318",
+    "name": "powiat myśliborski"
+  },
+  {
+    "external_id": "119",
+    "name": "powiat mławski"
+  },
+  {
+    "external_id": "98",
+    "name": "powiat nakielski"
+  },
+  {
+    "external_id": "135",
+    "name": "powiat namysłowski"
+  },
+  {
+    "external_id": "142",
+    "name": "powiat nidzicki"
+  },
+  {
+    "external_id": "163",
+    "name": "powiat niżański"
+  },
+  {
+    "external_id": "165",
+    "name": "powiat nowodworski"
+  },
+  {
+    "external_id": "377",
+    "name": "powiat nowodworski"
+  },
+  {
+    "external_id": "143",
+    "name": "powiat nowomiejski"
+  },
+  {
+    "external_id": "299",
+    "name": "powiat nowosolski"
+  },
+  {
+    "external_id": "104",
+    "name": "powiat nowosądecki"
+  },
+  {
+    "external_id": "278",
+    "name": "powiat nowotarski"
+  },
+  {
+    "external_id": "77",
+    "name": "powiat nowotomyski"
+  },
+  {
+    "external_id": "258",
+    "name": "powiat Nowy Sącz"
+  },
+  {
+    "external_id": "52",
+    "name": "powiat nyski"
+  },
+  {
+    "external_id": "22",
+    "name": "powiat obornicki"
+  },
+  {
+    "external_id": "281",
+    "name": "powiat olecki"
+  },
+  {
+    "external_id": "177",
+    "name": "powiat oleski"
+  },
+  {
+    "external_id": "242",
+    "name": "powiat oleśnicki"
+  },
+  {
+    "external_id": "344",
+    "name": "powiat olkuski"
+  },
+  {
+    "external_id": "360",
+    "name": "powiat Olsztyn"
+  },
+  {
+    "external_id": "310",
+    "name": "powiat olsztyński"
+  },
+  {
+    "external_id": "266",
+    "name": "powiat opatowski"
+  },
+  {
+    "external_id": "212",
+    "name": "powiat opoczyński"
+  },
+  {
+    "external_id": "64",
+    "name": "powiat Opole"
+  },
+  {
+    "external_id": "126",
+    "name": "powiat opolski"
+  },
+  {
+    "external_id": "333",
+    "name": "powiat opolski"
+  },
+  {
+    "external_id": "82",
+    "name": "powiat ostrowiecki"
+  },
+  {
+    "external_id": "112",
+    "name": "powiat ostrowski"
+  },
+  {
+    "external_id": "214",
+    "name": "powiat ostrowski"
+  },
+  {
+    "external_id": "375",
+    "name": "powiat ostrołęcki"
+  },
+  {
+    "external_id": "56",
+    "name": "powiat Ostrołęka"
+  },
+  {
+    "external_id": "19",
+    "name": "powiat ostrzeszowski"
+  },
+  {
+    "external_id": "65",
+    "name": "powiat ostródzki"
+  },
+  {
+    "external_id": "338",
+    "name": "powiat otwocki"
+  },
+  {
+    "external_id": "366",
+    "name": "powiat oławski"
+  },
+  {
+    "external_id": "345",
+    "name": "powiat oświęcimski"
+  },
+  {
+    "external_id": "62",
+    "name": "powiat pabianicki"
+  },
+  {
+    "external_id": "296",
+    "name": "powiat pajęczański"
+  },
+  {
+    "external_id": "172",
+    "name": "powiat parczewski"
+  },
+  {
+    "external_id": "3",
+    "name": "powiat piaseczyński"
+  },
+  {
+    "external_id": "41",
+    "name": "powiat Piekary Śląskie"
+  },
+  {
+    "external_id": "260",
+    "name": "powiat pilski"
+  },
+  {
+    "external_id": "111",
+    "name": "powiat piotrkowski"
+  },
+  {
+    "external_id": "346",
+    "name": "powiat Piotrków Trybunalski"
+  },
+  {
+    "external_id": "357",
+    "name": "powiat piski"
+  },
+  {
+    "external_id": "268",
+    "name": "powiat pińczowski"
+  },
+  {
+    "external_id": "322",
+    "name": "powiat pleszewski"
+  },
+  {
+    "external_id": "347",
+    "name": "powiat poddębicki"
+  },
+  {
+    "external_id": "274",
+    "name": "powiat policki"
+  },
+  {
+    "external_id": "275",
+    "name": "powiat polkowicki"
+  },
+  {
+    "external_id": "114",
+    "name": "powiat Poznań"
+  },
+  {
+    "external_id": "379",
+    "name": "powiat poznański"
+  },
+  {
+    "external_id": "221",
+    "name": "powiat proszowicki"
+  },
+  {
+    "external_id": "203",
+    "name": "powiat prudnicki"
+  },
+  {
+    "external_id": "166",
+    "name": "powiat pruszkowski"
+  },
+  {
+    "external_id": "55",
+    "name": "powiat przasnyski"
+  },
+  {
+    "external_id": "66",
+    "name": "powiat przemyski"
+  },
+  {
+    "external_id": "67",
+    "name": "powiat Przemyśl"
+  },
+  {
+    "external_id": "337",
+    "name": "powiat przeworski"
+  },
+  {
+    "external_id": "167",
+    "name": "powiat przysuski"
+  },
+  {
+    "external_id": "206",
+    "name": "powiat pszczyński"
+  },
+  {
+    "external_id": "158",
+    "name": "powiat pucki"
+  },
+  {
+    "external_id": "255",
+    "name": "powiat puławski"
+  },
+  {
+    "external_id": "286",
+    "name": "powiat pułtuski"
+  },
+  {
+    "external_id": "86",
+    "name": "powiat pyrzycki"
+  },
+  {
+    "external_id": "137",
+    "name": "powiat Płock"
+  },
+  {
+    "external_id": "285",
+    "name": "powiat płocki"
+  },
+  {
+    "external_id": "118",
+    "name": "powiat płoński"
+  },
+  {
+    "external_id": "49",
+    "name": "powiat raciborski"
+  },
+  {
+    "external_id": "20",
+    "name": "powiat Radom"
+  },
+  {
+    "external_id": "4",
+    "name": "powiat radomski"
+  },
+  {
+    "external_id": "297",
+    "name": "powiat radomszczański"
+  },
+  {
+    "external_id": "97",
+    "name": "powiat radziejowski"
+  },
+  {
+    "external_id": "256",
+    "name": "powiat radzyński"
+  },
+  {
+    "external_id": "28",
+    "name": "powiat rawicki"
+  },
+  {
+    "external_id": "159",
+    "name": "powiat rawski"
+  },
+  {
+    "external_id": "1",
+    "name": "powiat ropczycko-sędziszowski"
+  },
+  {
+    "external_id": "144",
+    "name": "powiat Ruda Śląska"
+  },
+  {
+    "external_id": "39",
+    "name": "powiat rybnicki"
+  },
+  {
+    "external_id": "251",
+    "name": "powiat Rybnik"
+  },
+  {
+    "external_id": "127",
+    "name": "powiat rycki"
+  },
+  {
+    "external_id": "371",
+    "name": "powiat rypiński"
+  },
+  {
+    "external_id": "209",
+    "name": "powiat rzeszowski"
+  },
+  {
+    "external_id": "331",
+    "name": "powiat Rzeszów"
+  },
+  {
+    "external_id": "354",
+    "name": "powiat sandomierski"
+  },
+  {
+    "external_id": "325",
+    "name": "powiat sanocki"
+  },
+  {
+    "external_id": "324",
+    "name": "powiat sejneński"
+  },
+  {
+    "external_id": "24",
+    "name": "powiat Siedlce"
+  },
+  {
+    "external_id": "120",
+    "name": "powiat siedlecki"
+  },
+  {
+    "external_id": "87",
+    "name": "powiat Siemianowice Śląskie"
+  },
+  {
+    "external_id": "236",
+    "name": "powiat siemiatycki"
+  },
+  {
+    "external_id": "223",
+    "name": "powiat sieradzki"
+  },
+  {
+    "external_id": "5",
+    "name": "powiat sierpecki"
+  },
+  {
+    "external_id": "83",
+    "name": "powiat skarżyski"
+  },
+  {
+    "external_id": "106",
+    "name": "powiat Skierniewice"
+  },
+  {
+    "external_id": "161",
+    "name": "powiat skierniewicki"
+  },
+  {
+    "external_id": "287",
+    "name": "powiat sochaczewski"
+  },
+  {
+    "external_id": "252",
+    "name": "powiat sokołowski"
+  },
+  {
+    "external_id": "101",
+    "name": "powiat sokólski"
+  },
+  {
+    "external_id": "208",
+    "name": "powiat Sopot"
+  },
+  {
+    "external_id": "38",
+    "name": "powiat Sosnowiec"
+  },
+  {
+    "external_id": "116",
+    "name": "powiat stalowowolski"
+  },
+  {
+    "external_id": "139",
+    "name": "powiat starachowicki"
+  },
+  {
+    "external_id": "32",
+    "name": "powiat stargardzki"
+  },
+  {
+    "external_id": "113",
+    "name": "powiat starogardzki"
+  },
+  {
+    "external_id": "185",
+    "name": "powiat staszowski"
+  },
+  {
+    "external_id": "178",
+    "name": "powiat strzelecki"
+  },
+  {
+    "external_id": "225",
+    "name": "powiat strzelecko-drezdenecki"
+  },
+  {
+    "external_id": "243",
+    "name": "powiat strzeliński"
+  },
+  {
+    "external_id": "216",
+    "name": "powiat strzyżowski"
+  },
+  {
+    "external_id": "16",
+    "name": "powiat sulęciński"
+  },
+  {
+    "external_id": "326",
+    "name": "powiat suski"
+  },
+  {
+    "external_id": "80",
+    "name": "powiat suwalski"
+  },
+  {
+    "external_id": "180",
+    "name": "powiat Suwałki"
+  },
+  {
+    "external_id": "183",
+    "name": "powiat szamotulski"
+  },
+  {
+    "external_id": "157",
+    "name": "powiat Szczecin"
+  },
+  {
+    "external_id": "355",
+    "name": "powiat szczecinecki"
+  },
+  {
+    "external_id": "238",
+    "name": "powiat szczycieński"
+  },
+  {
+    "external_id": "314",
+    "name": "powiat sztumski"
+  },
+  {
+    "external_id": "6",
+    "name": "powiat szydłowiecki"
+  },
+  {
+    "external_id": "152",
+    "name": "powiat sępoleński"
+  },
+  {
+    "external_id": "311",
+    "name": "powiat sławieński"
+  },
+  {
+    "external_id": "76",
+    "name": "powiat słubicki"
+  },
+  {
+    "external_id": "29",
+    "name": "powiat słupecki"
+  },
+  {
+    "external_id": "267",
+    "name": "powiat Słupsk"
+  },
+  {
+    "external_id": "81",
+    "name": "powiat słupski"
+  },
+  {
+    "external_id": "117",
+    "name": "powiat Tarnobrzeg"
+  },
+  {
+    "external_id": "164",
+    "name": "powiat tarnobrzeski"
+  },
+  {
+    "external_id": "146",
+    "name": "powiat tarnogórski"
+  },
+  {
+    "external_id": "292",
+    "name": "powiat tarnowski"
+  },
+  {
+    "external_id": "72",
+    "name": "powiat Tarnów"
+  },
+  {
+    "external_id": "277",
+    "name": "powiat tatrzański"
+  },
+  {
+    "external_id": "188",
+    "name": "powiat tczewski"
+  },
+  {
+    "external_id": "11",
+    "name": "powiat tomaszowski"
+  },
+  {
+    "external_id": "282",
+    "name": "powiat tomaszowski"
+  },
+  {
+    "external_id": "47",
+    "name": "powiat Toruń"
+  },
+  {
+    "external_id": "198",
+    "name": "powiat toruński"
+  },
+  {
+    "external_id": "364",
+    "name": "powiat trzebnicki"
+  },
+  {
+    "external_id": "48",
+    "name": "powiat tucholski"
+  },
+  {
+    "external_id": "265",
+    "name": "powiat turecki"
+  },
+  {
+    "external_id": "250",
+    "name": "powiat Tychy"
+  },
+  {
+    "external_id": "374",
+    "name": "powiat wadowicki"
+  },
+  {
+    "external_id": "302",
+    "name": "powiat Warszawa"
+  },
+  {
+    "external_id": "68",
+    "name": "powiat warszawski zachodni"
+  },
+  {
+    "external_id": "151",
+    "name": "powiat Wałbrzych"
+  },
+  {
+    "external_id": "248",
+    "name": "powiat wałbrzyski"
+  },
+  {
+    "external_id": "334",
+    "name": "powiat wałecki"
+  },
+  {
+    "external_id": "156",
+    "name": "powiat wejherowski"
+  },
+  {
+    "external_id": "222",
+    "name": "powiat wielicki"
+  },
+  {
+    "external_id": "348",
+    "name": "powiat wieluński"
+  },
+  {
+    "external_id": "131",
+    "name": "powiat wieruszowski"
+  },
+  {
+    "external_id": "200",
+    "name": "powiat wodzisławski"
+  },
+  {
+    "external_id": "353",
+    "name": "powiat wolsztyński"
+  },
+  {
+    "external_id": "328",
+    "name": "powiat wołomiński"
+  },
+  {
+    "external_id": "197",
+    "name": "powiat wołowski"
+  },
+  {
+    "external_id": "33",
+    "name": "powiat Wrocław"
+  },
+  {
+    "external_id": "92",
+    "name": "powiat wrocławski"
+  },
+  {
+    "external_id": "306",
+    "name": "powiat wrzesiński"
+  },
+  {
+    "external_id": "73",
+    "name": "powiat wschowski"
+  },
+  {
+    "external_id": "261",
+    "name": "powiat wysokomazowiecki"
+  },
+  {
+    "external_id": "169",
+    "name": "powiat wyszkowski"
+  },
+  {
+    "external_id": "244",
+    "name": "powiat wąbrzeski"
+  },
+  {
+    "external_id": "78",
+    "name": "powiat wągrowiecki"
+  },
+  {
+    "external_id": "272",
+    "name": "powiat węgorzewski"
+  },
+  {
+    "external_id": "7",
+    "name": "powiat węgrowski"
+  },
+  {
+    "external_id": "153",
+    "name": "powiat Włocławek"
+  },
+  {
+    "external_id": "45",
+    "name": "powiat włocławski"
+  },
+  {
+    "external_id": "69",
+    "name": "powiat włodawski"
+  },
+  {
+    "external_id": "31",
+    "name": "powiat włoszczowski"
+  },
+  {
+    "external_id": "359",
+    "name": "powiat Zabrze"
+  },
+  {
+    "external_id": "283",
+    "name": "powiat zambrowski"
+  },
+  {
+    "external_id": "291",
+    "name": "powiat zamojski"
+  },
+  {
+    "external_id": "128",
+    "name": "powiat Zamość"
+  },
+  {
+    "external_id": "147",
+    "name": "powiat zawierciański"
+  },
+  {
+    "external_id": "298",
+    "name": "powiat zduńskowolski"
+  },
+  {
+    "external_id": "15",
+    "name": "powiat zgierski"
+  },
+  {
+    "external_id": "54",
+    "name": "powiat zgorzelecki"
+  },
+  {
+    "external_id": "105",
+    "name": "powiat Zielona Góra"
+  },
+  {
+    "external_id": "327",
+    "name": "powiat zielonogórski"
+  },
+  {
+    "external_id": "218",
+    "name": "powiat zwoleński"
+  },
+  {
+    "external_id": "204",
+    "name": "powiat ząbkowicki"
+  },
+  {
+    "external_id": "91",
+    "name": "powiat złotoryjski"
+  },
+  {
+    "external_id": "179",
+    "name": "powiat złotowski"
+  },
+  {
+    "external_id": "294",
+    "name": "powiat łaski"
+  },
+  {
+    "external_id": "17",
+    "name": "powiat łańcucki"
+  },
+  {
+    "external_id": "239",
+    "name": "powiat łobeski"
+  },
+  {
+    "external_id": "27",
+    "name": "powiat Łomża"
+  },
+  {
+    "external_id": "332",
+    "name": "powiat łomżyński"
+  },
+  {
+    "external_id": "2",
+    "name": "powiat łosicki"
+  },
+  {
+    "external_id": "160",
+    "name": "powiat łowicki"
+  },
+  {
+    "external_id": "10",
+    "name": "powiat łukowski"
+  },
+  {
+    "external_id": "175",
+    "name": "powiat łódzki wschodni"
+  },
+  {
+    "external_id": "110",
+    "name": "powiat Łódź"
+  },
+  {
+    "external_id": "295",
+    "name": "powiat łęczycki"
+  },
+  {
+    "external_id": "125",
+    "name": "powiat łęczyński"
+  },
+  {
+    "external_id": "367",
+    "name": "powiat średzki"
+  },
+  {
+    "external_id": "57",
+    "name": "powiat średzki"
+  },
+  {
+    "external_id": "263",
+    "name": "powiat śremski"
+  },
+  {
+    "external_id": "173",
+    "name": "powiat świdnicki"
+  },
+  {
+    "external_id": "211",
+    "name": "powiat świdnicki"
+  },
+  {
+    "external_id": "356",
+    "name": "powiat świdwiński"
+  },
+  {
+    "external_id": "226",
+    "name": "powiat świebodziński"
+  },
+  {
+    "external_id": "321",
+    "name": "powiat świecki"
+  },
+  {
+    "external_id": "60",
+    "name": "powiat Świnoujście"
+  },
+  {
+    "external_id": "358",
+    "name": "powiat Świętochłowice"
+  },
+  {
+    "external_id": "107",
+    "name": "powiat żagański"
+  },
+  {
+    "external_id": "132",
+    "name": "powiat żarski"
+  },
+  {
+    "external_id": "96",
+    "name": "powiat żniński"
+  },
+  {
+    "external_id": "376",
+    "name": "powiat Żory"
+  },
+  {
+    "external_id": "219",
+    "name": "powiat żuromiński"
+  },
+  {
+    "external_id": "21",
+    "name": "powiat żyrardowski"
+  },
+  {
+    "external_id": "100",
+    "name": "powiat żywiecki"
+  }
+]

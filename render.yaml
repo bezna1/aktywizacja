@@ -1,0 +1,37 @@
+services:
+  - type: web
+    name: aktywizacja-backend
+    runtime: docker
+    dockerfilePath: docker/backend.Dockerfile
+    dockerContext: .
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: aktywizacja-db
+          property: connectionString
+      - key: JWT_SECRET_KEY
+        generateValue: true
+      - key: CORS_ORIGINS
+        value: https://aktywizacja-frontend.onrender.com
+      - key: ADMIN_EMAIL
+        value: admin@aktywizacja.app
+      - key: ADMIN_PASSWORD
+        generateValue: true
+      - key: ENVIRONMENT
+        value: production
+    healthCheckPath: /health
+
+  - type: web
+    name: aktywizacja-frontend
+    runtime: docker
+    dockerfilePath: docker/frontend.Dockerfile
+    dockerContext: .
+    buildArgs:
+      - key: VITE_API_URL
+        value: https://aktywizacja-backend.onrender.com/api
+
+databases:
+  - name: aktywizacja-db
+    databaseName: aktywizacja
+    user: aktywizacja
+    plan: free

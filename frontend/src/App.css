@@ -1,0 +1,255 @@
+/* ─── Reset & base ──────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: #EEEAE3;
+  font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+}
+
+/* ─── Login ─────────────────────────────────────────── */
+.loginScreen {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: #EEEAE3;
+}
+
+.loginPanel {
+  width: min(420px, calc(100vw - 32px));
+  display: grid;
+  gap: 18px;
+  padding: 40px;
+  border-radius: 24px;
+  background: #fff;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.08);
+}
+
+/* ─── App shell ─────────────────────────────────────── */
+.appShell {
+  min-height: 100vh;
+  background: #EEEAE3;
+}
+
+/* ─── Top navigation ────────────────────────────────── */
+.topNav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: #EEEAE3;
+  padding: 0 28px;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+
+/* Row 1: logo + actions */
+.navRow1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 56px;
+}
+
+/* Row 2: all nav tabs, wrappable */
+.navRow2 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2px;
+  padding-bottom: 8px;
+}
+
+.navLogo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.brandIcon {
+  width: 34px;
+  height: 34px;
+  border-radius: 9px;
+  background: #1A1A1A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #C7D9F5;
+  font-weight: 900;
+  font-size: 15px;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+
+.navTabs {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex: 1;
+}
+
+.navTab {
+  padding: 7px 15px;
+  border-radius: 100px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  color: #666;
+  transition: all 0.15s;
+  white-space: nowrap;
+  user-select: none;
+}
+
+.navTab:hover {
+  background: rgba(0, 0, 0, 0.06);
+  color: #1A1A1A;
+}
+
+.navTab.active {
+  background: #1A1A1A;
+  color: #fff;
+  font-weight: 600;
+}
+
+.navActions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+/* ─── Content area ──────────────────────────────────── */
+.mainArea {
+  /* unused in new layout — kept for compat */
+  margin-left: 0;
+}
+
+.content {
+  padding: 16px 28px 40px;
+  display: grid;
+  gap: 0; /* gaps handled by Stack in TSX */
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+/* ─── Cards ─────────────────────────────────────────── */
+.metricGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+/* Legacy compat */
+.metric { padding: 20px; }
+.metric.good, .metric.warn, .metric.bad { border-left: none; }
+
+.panel,
+.tablePanel {
+  border: 1px solid #EEEAE3;
+  border-radius: 20px !important;
+  background: #fff;
+}
+
+.panel {
+  padding: 22px 24px;
+  display: grid;
+  gap: 14px;
+}
+
+.twoColumns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+/* ─── Table ─────────────────────────────────────────── */
+.tablePanel {
+  overflow: hidden;
+}
+
+.tableToolbar {
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  border-bottom: 1px solid #F0EDE8;
+  background: #fff;
+}
+
+.tableFilters {
+  display: grid;
+  grid-template-columns: minmax(220px, 1fr) 200px;
+  gap: 12px;
+  align-items: center;
+  width: min(540px, 100%);
+}
+
+.sensitiveCell {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  letter-spacing: 0;
+}
+
+.headerLabel { margin-right: 6px; }
+.peselHeaderSwitch { margin-left: 2px; }
+
+/* ─── Form ──────────────────────────────────────────── */
+.participantForm {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  padding-top: 8px;
+}
+
+.trainingRow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 0;
+  border-bottom: 1px solid #F0EDE8;
+}
+
+/* ─── Sidebar compat (unused but kept) ─────────────── */
+.sidebarSearch { padding: 10px 12px 6px; }
+.sidebarSection {
+  padding: 14px 20px 4px;
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  color: #CBD5E1;
+  text-transform: uppercase;
+  display: block;
+}
+.addButton {
+  margin: 10px 12px 2px !important;
+  height: 42px;
+  border-radius: 10px !important;
+  text-transform: none !important;
+  font-weight: 700 !important;
+}
+
+/* ─── MUI overrides ─────────────────────────────────── */
+.MuiDrawer-root.sidebarDrawer { display: none !important; }
+
+/* ─── Responsive ────────────────────────────────────── */
+@media (max-width: 1024px) {
+  .metricGrid,
+  .twoColumns { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 768px) {
+  .topNav { padding: 0 16px; }
+  .content { padding: 12px 16px 32px; }
+
+  .metricGrid,
+  .twoColumns,
+  .participantForm,
+  .tableFilters { grid-template-columns: 1fr; }
+
+  .tableToolbar {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .navTabs .navTab:nth-child(n+4) { display: none; }
+}
